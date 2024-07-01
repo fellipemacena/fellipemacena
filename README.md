@@ -19,7 +19,7 @@ Sou apaixonado por garantir a qualidade de software através de testes automatiz
 
 ## 📚 Estou Aprendendo
 
-- Kubernetes para QA
+- Kubernetes e Docker para QA
 - Melhores práticas em CI/CD
 - Novas linguagens e frameworks para testes automatizados
 
