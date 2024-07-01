@@ -4,7 +4,7 @@ Meu nome é Fellipe Macena, sou Analista de QA com experiência em testes automa
 
 ## 🚀 Sobre Mim
 
-Sou apaixonado por garantir a qualidade de software através de testes automatizados. Tenho uma vasta experiência em diversas ferramentas e metodologias de QA, incluindo:
+Gosto de trabalhar com garantia da qualidade de software através de testes automatizados e sugerir melhorias no fluxo de processos e produtos. Tenho experiência em diversas ferramentas e metodologias de QA, incluindo:
 
 - **Frameworks de Teste**: Cypress, Selenium, JUnit, RestAssured
 - **Metodologias**: BDD (Behavior Driven Development), TDD (Test Driven Development)
@@ -14,19 +14,14 @@ Sou apaixonado por garantir a qualidade de software através de testes automatiz
 
 ## 💼 Projetos Atuais
 
-- 🔭 Atualmente, estou trabalhando em projetos que envolvem a integração de testes automatizados em pipelines de CI/CD utilizando Azure DevOps e GitHub Actions.
-- 🌱 Estou me especializando em C++ e estudando Kubernetes no contexto de qualidade de software.
+- 🔭 Atualmente estou trabalhando em projetos que envolvem a integração de testes automatizados em pipelines de CI/CD utilizando Azure DevOps e GitHub Actions.
+- 🌱 Estou me especializando em C++ e estudando Kubernetes e Docker no contexto de qualidade de software.
 
 ## 📚 Estou Aprendendo
 
 - Kubernetes e Docker para QA
 - Melhores práticas em CI/CD
 - Novas linguagens e frameworks para testes automatizados
-
-## 🤝 Busco Colaboração
-
-- Projetos open-source de QA
-- Novas oportunidades para aplicar minhas habilidades em diferentes contextos
 
 ## 📫 Como Me Encontrar
 
