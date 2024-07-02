@@ -1,6 +1,6 @@
 # Bem-vindo ao meu GitHub!
 
-Meu nome é Fellipe Macena, sou Analista de QA com experiência em testes automatizados utilizando frameworks como Cypress, Selenium e JUnit.
+Meu nome é Fellipe Macena, sou Analista de QA com experiência em testes automatizados utilizando frameworks como Cypress e Selenium com JUnit.
 
 ## 🚀 Sobre Mim
 
