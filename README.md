@@ -15,7 +15,6 @@ Gosto de trabalhar com garantia da qualidade de software através de testes auto
 ## 💼 Projetos Atuais
 
 - 🔭 Atualmente estou trabalhando em projetos que envolvem a integração de testes automatizados em pipelines de CI/CD utilizando Azure DevOps e GitHub Actions.
-- 🌱 Estou me especializando em C++ e estudando Kubernetes e Docker no contexto de qualidade de software.
 
 ## 📚 Estou Aprendendo
 
