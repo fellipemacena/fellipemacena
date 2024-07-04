@@ -18,6 +18,7 @@ Gosto de trabalhar com garantia da qualidade de software através de testes auto
 
 ## 📚 Estou Aprendendo
 
+- k6 para testes de carga, stress e perfomance
 - Kubernetes e Docker para QA
 - Melhores práticas em CI/CD
 - Novas linguagens e frameworks para testes automatizados
