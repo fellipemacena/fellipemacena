@@ -26,7 +26,7 @@ Gosto de trabalhar com garantia da qualidade de software através de testes auto
 ## 📫 Como Me Encontrar
 
 - LinkedIn: [Fellipe Macena](https://www.linkedin.com/in/fellipemacena)
-- Email: fellipemacena@gmail.com
+- Email: fellipe.macena@gmail.com
 
 ![Fellipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=fellipemacena&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fellipemacena&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
