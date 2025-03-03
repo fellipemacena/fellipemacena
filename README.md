@@ -4,10 +4,10 @@ Hello there! I'm **Fellipe Macena**, a passionate Software Quality Analyst with 
 
 ## 🚀 Core Competencies
 
-- **Testing Frameworks:** Cypress, Selenium, JUnit, RestAssured  
+- **Testing Frameworks:** Cypress, Selenium, JUnit, RestAssured, Postman, Insomnia, Appium  
 - **Methodologies:** BDD (Behavior Driven Development), TDD (Test Driven Development)  
 - **Tools:** Jira, Azure DevOps, Jenkins, Docker, GIT  
-- **Programming Languages:** Java, Python, JavaScript, C#, SQL  
+- **Programming Languages:** Java, Python, JavaScript, Typescript, C#, SQL  
 - **Databases:** PostgreSQL, MySQL  
 - **Performance & Load Testing:** k6  
 - **Containerization & Orchestration:** Kubernetes & Docker for QA  
