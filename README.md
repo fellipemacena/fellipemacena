@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-Hello there! I'm **Fellipe Macena**, a passionate Software Quality Analyst with hands-on experience in automated testing. I love exploring innovative testing methodologies and tools to ensure the highest quality in every project.
+HI! And Welcome my github. I'm **Fellipe Macena** and I'm Software Quality Analyst with hands-on experience in automated testing.
 
 ## 🚀 Core Competencies
 
@@ -13,14 +13,16 @@ Hello there! I'm **Fellipe Macena**, a passionate Software Quality Analyst with 
 - **Containerization & Orchestration:** Kubernetes & Docker for QA  
 - **CI/CD Best Practices & Continuous Integration**
 
+
 ## 💼 Current Projects
 
-- QA/Test Analyst at **Fi Group**, working on project refactoring.
+- Project Full Stack Ecommerce 
+- Project Full Stack Doar Conecta for ONGs
 
 ## 📚 Learning Journey
 
 - Always exploring new languages and automated testing frameworks to keep up with industry trends.
-- Currently studying AWS.
+- Currently studying Full Stack Develop.
 
 ## 📫 How to Reach Me
 
